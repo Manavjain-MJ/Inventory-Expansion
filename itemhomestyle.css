@@ -1,0 +1,21 @@
+body {
+    background-image: url('https://media.istockphoto.com/id/182860026/photo/cardboard-box.jpg?s=1024x1024&w=is&k=20&c=T6vAy8Kt9CrtmWcImW-I8x64hwfTn7Fwz1CrOat1Gsk=');
+    background-position: cover;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+
+}
+
+figcaption {
+    font-style: italic;
+    font-size: medium;
+}
+/* table
+{
+   vertical-align:middle;
+   background-color: rgba(245, 222, 179, 0.9);
+   width: 100%; 
+   border-collapse: collapse; 
+   margin-bottom: 20px;
+} */
